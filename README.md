@@ -47,7 +47,7 @@ save_path = 'result/set3'
 
 利用pyqt5写了增强界面，可进行离线图片的增强、离线视频增强以及实时增强。可实现以下功能：
 
-![1655791020815](https://file+.vscode-resource.vscode-cdn.net/d%3A/python_files4/Retinex-master/image/README_/1655791020815.png)
+![1655791020815](image/README_/1655791020815.png)
 
 #### 离线图片增强
 
